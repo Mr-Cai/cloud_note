@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>13790734476-kdifh5q27qq9rkb377r08i33k2rmcjmo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.13790734476-kdifh5q27qq9rkb377r08i33k2rmcjmo</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBWpHVe1izygsn17IGoGb75gCIoCg9SrQE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>13790734476</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>cloud.note</string>
+	<key>PROJECT_ID</key>
+	<string>cloud-note-1e920</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cloud-note-1e920.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:13790734476:ios:4b77bccf0318f60aee33a9</string>
+	<key>DATABASE_URL</key>
+	<string>https://cloud-note-1e920.firebaseio.com</string>
+</dict>
+</plist>

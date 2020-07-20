@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "13790734476",
+    "firebase_url": "https://cloud-note-1e920.firebaseio.com",
+    "project_id": "cloud-note-1e920",
+    "storage_bucket": "cloud-note-1e920.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13790734476:android:5341c1cdfef3cd30ee33a9",
+        "android_client_info": {
+          "package_name": "cloud.note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13790734476-12aeb00bdgrhq8rlmd1949n31an55gjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC143tt4lTRPbQ5jjaAe8YolxvhxHQ0QhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13790734476-12aeb00bdgrhq8rlmd1949n31an55gjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
